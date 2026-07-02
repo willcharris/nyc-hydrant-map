@@ -1,0 +1,18 @@
+# PMTiles files: large, regenerated. Don't commit.
+*.pmtiles
+!hydrant_density.pmtiles
+
+# Source data: regenerate from PP2 output.
+data/raw/
+
+# OS noise
+.DS_Store
+Thumbs.db
+
+# Editor noise
+.vscode/
+.idea/
+*.swp
+
+# Local web server logs
+*.log
