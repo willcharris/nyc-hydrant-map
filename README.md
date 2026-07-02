@@ -43,3 +43,9 @@ Then visit `http://localhost:8000/index.html`.
 ## License
 
 MIT.
+
+---
+
+---
+
+_Last updated: July 2026_
