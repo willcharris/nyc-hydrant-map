@@ -2,7 +2,7 @@
 
 An interactive choropleth map of fire hydrant density across New York City neighborhoods.
 
-**Live map:** https://will3ch.github.io/nyc-hydrant-map/
+**Live map:** https://willcharris.github.io/nyc-hydrant-map/
 
 ## What this shows
 
